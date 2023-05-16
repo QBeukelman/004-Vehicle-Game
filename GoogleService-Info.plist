@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DATABASE_URL</key>
+	<string>https://game-14c6c-default-rtdb.europe-west1.firebasedatabase.app</string>
+	<key>CLIENT_ID</key>
+	<string>558259557251-s8o1qdll0rn0el53i8frhvcmnhbfq322.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.558259557251-s8o1qdll0rn0el53i8frhvcmnhbfq322</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCm02qW7rQ4USaTnx9QH0TJuMdx4_aBUB4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>558259557251</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Adhoc.Game.Game</string>
+	<key>PROJECT_ID</key>
+	<string>game-14c6c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>game-14c6c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:558259557251:ios:14107ded2189778a7c1cb6</string>
+</dict>
+</plist>
